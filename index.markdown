@@ -52,6 +52,8 @@ Ordina i blocchi che compongono l'algoritmo di Ricerca in ampiezza (BFS).
   }); 
 })(); 
 </script>
+
+
 ## Parsons 1 (Line Based Grader)
 Re-arrange the blocks below so they print out "Hello World!"
 
