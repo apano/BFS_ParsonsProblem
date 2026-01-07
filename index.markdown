@@ -5,7 +5,7 @@
 layout: default
 title: Algoritmo di ricerca in ampiezza
 ---
-# Parsons 5 Breadth First Algorithm 
+# Parsons Breadth First Algorithm 
 ## BDF
 Ordina i blocchi che compongono l'algoritmo di Ricerca in ampiezza (BFS).
 <div id="sortableTrash" class="sortable-code"></div> 
