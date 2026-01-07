@@ -22,7 +22,7 @@ title: Parsons UI Example
 email: support@codio.com
 description: # >- # this means to ignore newlines until "baseurl:"
   Trascina o mescola i blocchi di codice negli esercizi qui sotto. <br/>
-  Per controllare il tuo lavoro, premi il pulsante "Get Feedback".
+  Per controllare il tuo lavoro, premi il pulsante "Get Feedback". <br/>
   Per ricominciare da capo, premi il pulsante "Reset Problem".
   
 baseurl: "/hosting-parsons-on-github-template" # the subpath of your site, e.g. /blog
