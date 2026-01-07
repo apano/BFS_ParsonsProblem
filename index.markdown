@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Parsons Puzzle : Breadth First Algorithm - Ricerca in ampiezza
+title: Parsons Puzzle - Breadth First Algorithm - Ricerca in ampiezza
 ---
 Ordina i blocchi che compongono l'algoritmo di Ricerca in ampiezza (BFS).
 <div id="sortableTrash" class="sortable-code"></div> 
